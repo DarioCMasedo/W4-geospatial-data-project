@@ -24,7 +24,7 @@ Y necesitamos cumplir al menos 3 de las siguientes necesidades de los empleados:
 * Nadie en la compañia le gusta tener cerca a empresas que tengan mas de 10 años en un radio de 2KM.
 * El CEO es vegano.
 
-Para el analisis hemos utlizado dos datasets uno del a web de Kaggle para los Starbucks del todo el mundo:https://www.kaggle.com/starbucks/store-locations
+Para el analisis hemos utlizado el datasets de la web de Kaggle para los Starbucks del todo el mundo:https://www.kaggle.com/starbucks/store-locations
 
 # Recursos
 
